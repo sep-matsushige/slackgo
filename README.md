@@ -2,13 +2,10 @@
 Research about slack <-> go relation.
 
 ## env.
-### Cloud9
-- Template : HTML5 *Not seletced django.
-- Ubuntu 14.04
+- Local(macOs High Sierra)
 ### Install golang
 ```
-sudo apt-get update
-sudo apt-get install golang
+brew install go
 
 go version
 ```
