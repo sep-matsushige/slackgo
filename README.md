@@ -9,4 +9,10 @@ Research about slack <-> go relation.
 ```
 sudo apt-get update
 sudo apt-get install golang
+
+go version
+```
+### Install nlopes/slack
+```
+go get -u github.com/nlopes/slack
 ```
